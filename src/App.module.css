@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+input {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+button {
+  margin: 10px;
+}
+
+.errorLabel {
+  color: red;
+}
